@@ -4,32 +4,23 @@ This dashboard provides a clear analysis of Amazon sales performance through key
 Tech Stack: Excel, Power BI, DAX
 
 ## Key Insights from the Amazon Sales Dashboard
-1. Strong Overall Sales Performance
-The business generated 1.57M in total sales from 3003 orders, indicating healthy demand and consistent customer activity.
+1. Strong Overall Sales Performance: The business generated 1.57M in total sales from 3003 orders, indicating healthy demand and consistent customer activity.
 
-2. High Profitability
-The total profit stands at 175.26K, showing that most product categories are generating positive margins.
+2. High Profitability: The total profit stands at 175.26K, showing that most product categories are generating positive margins.
 
-3. Top-Performing Sub-Categories
-Phones, Chairs, and Binders are the most profitable sub-categories, contributing significantly to overall profit.
+3. Top-Performing Sub-Categories: Phones, Chairs, and Binders are the most profitable sub-categories, contributing significantly to overall profit.
 
-4. Category-Wise Sales Trends
-Office Supplies and Technology dominate the sales volume. Furniture contributes comparatively less, indicating a potential area for promotion or strategy improvement.
+4. Category-Wise Sales Trends: Office Supplies and Technology dominate the sales volume. Furniture contributes comparatively less, indicating a potential area for promotion or strategy improvement.
 
-5. Quarterly Sales Growth
-A visible upward trend from Q1 to Q4, showing increased sales and profit each quarter, indicating seasonal or campaign-driven growth.
+5. Quarterly Sales Growth: A visible upward trend from Q1 to Q4, showing increased sales and profit each quarter, indicating seasonal or campaign-driven growth.
 
-6. Regional Sales Distribution
-The map visualisation reveals higher sales concentration in specific states, helping to identify strong regional markets and expansion opportunities.
+6. Regional Sales Distribution: The map visualisation reveals higher sales concentration in specific states, helping to identify strong regional markets and expansion opportunities.
 
-7. Customer Segment Insights
-Consumer segment contributes the highest share (around 48%), followed by Corporate and Home Office customers.
+7. Customer Segment Insights: Consumer segment contributes the highest share (around 48%), followed by Corporate and Home Office customers.
 
-8. Shipping Mode Preferences
-Standard Class shipping is the most preferred option, showing cost-conscious customer behaviour.
+8. Shipping Mode Preferences: Standard Class shipping is the most preferred option, showing cost-conscious customer behaviour.
 
-9. Payment Mode Split
-Online payments dominate, with COD and other methods trailing behind, indicating trust in digital transactions.
+9. Payment Mode Split: Online payments dominate, with COD and other methods trailing behind, indicating trust in digital transactions.
 
 10. Return Rate
 Returns remain low (around 4.86%), showing customer satisfaction and fewer issues with product quality or delivery.
